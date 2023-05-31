@@ -1,4 +1,4 @@
-# terraform-digitalocean-vpc
+# terraform-do-vpc
 
 
 ### Simple Example
